@@ -1,4 +1,4 @@
-# Merhaba, Ben Hasan Efe Hayri!
+<div align="center"> <h1>Merhaba, Ben Hasan-Efe-Hayri!</h1> </div>
 
 <div align="center"> <img src="https://avatars.githubusercontent.com/Hasan-Efe-Hayri" alt="Profil Resmi" style="border-radius: 50%;" width="400">
 
@@ -16,4 +16,4 @@ Ben, 19 yaşında Bilgisayar Mühendisliği 2.sınıf öğrencisiyim ve Yapay Ze
 ## Bağlantılar
 - [LinkedIn](www.linkedin.com/in/efe-hayri-9555b52a6)
 - [İnstagram](https://www.instagram.com/efe.hayri.100/profilecard/?igsh=MXc5Y3NmMjVlbm10eg==)
-- [Gmail](efehayri2005@gmail.com)
+- [E-mail](efehayri2005@gmail.com)
