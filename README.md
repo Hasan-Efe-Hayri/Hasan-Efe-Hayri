@@ -2,6 +2,8 @@
 
 <div align="center"> <img src="https://avatars.githubusercontent.com/Hasan-Efe-Hayri" alt="Profil Resmi" style="border-radius: 50%;"
 
+
+
 Ben, 19 yaşında Bilgisayar Mühendisliği 2.sınıf öğrencisiyim ve Yapay Zeka Eklentili Oyun Geliştirme alanıyla ilgileniyorum. Kendimi geliştirmeyi, yeni insanlarla tanışmayı, fotoğraf çekmeyi ve spor yapmayı çok seviyorum. Benimle iletişime geçmek isterseniz hiç çekinmeyin😊
 
 ## Hakkımda
