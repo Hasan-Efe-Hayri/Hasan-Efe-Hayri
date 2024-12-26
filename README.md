@@ -12,6 +12,11 @@ I am a 19-year-old second-year Computer Engineering student, and I am interested
 - 💬 Bana Yapay Zeka Eklentini Oyun Geliştirme hakkında soru sorabilirsiniz.
 - 📝 İlgi Alanlarım: Fotoğraf çekmek, Spor yapmak, Kendimi geliştirmek, Yeni insanlarla tanışmak, Oyun oynamak.
 
+## About Me
+- 🌱 Currently exploring Unity and Artificial Intelligence.
+- 💬 Feel free to ask me questions about AI-Enhanced Game Development.
+- 📝 📝 My Interests: Photography, Sports, Self-improvement, Meeting new people, Playing games.
+
 ## GitHub İstatistikleri
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Efe-Hayri&show_icons=true" alt="GitHub İstatistikleri" /> </div>
 
