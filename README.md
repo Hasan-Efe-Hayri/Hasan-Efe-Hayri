@@ -5,6 +5,8 @@
 
 Ben, 19 yaşında Bilgisayar Mühendisliği 2.sınıf öğrencisiyim ve Yapay Zeka Eklentili Oyun Geliştirme alanıyla ilgileniyorum. Kendimi geliştirmeyi, yeni insanlarla tanışmayı, fotoğraf çekmeyi ve spor yapmayı çok seviyorum. Benimle iletişime geçmek isterseniz hiç çekinmeyin😊
 
+I am a 19-year-old second-year Computer Engineering student, and I am interested in AI-Enhanced Game Development. I love improving myself, meeting new people, taking photos, and doing sports. Feel free to reach out to me anytime! 😊
+
 ## Hakkımda
 - 🌱 Şu anda Unity ve Yapay Zeka ile ilgileniyorum.
 - 💬 Bana Yapay Zeka Eklentini Oyun Geliştirme hakkında soru sorabilirsiniz.
