@@ -2,11 +2,6 @@
 
 <div align="center"> <img src="https://avatars.githubusercontent.com/Hasan-Efe-Hayri" alt="Profil Resmi" style="border-radius: 50%;" width="400">
 
-
-Ben, 21 yaşında Bilgisayar Mühendisliği 3.sınıf öğrencisiyim ve Yapay Zeka Eklentili Oyun Geliştirme alanıyla ilgileniyorum. Kendimi geliştirmeyi, yeni insanlarla tanışmayı, fotoğraf çekmeyi ve spor yapmayı çok seviyorum. Benimle iletişime geçmek isterseniz hiç çekinmeyin😊
-
-I am a 20-year-old second-year Computer Engineering student, and I am interested in AI-Enhanced Game Development. I love improving myself, meeting new people, taking photos, and doing sports. Feel free to reach out to me anytime! 😊
-
 ## Hakkımda
 Hakkımda [TR]
 Merhaba, ben Hasan Efe Hayri. 
