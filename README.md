@@ -3,19 +3,26 @@
 <div align="center"> <img src="https://avatars.githubusercontent.com/Hasan-Efe-Hayri" alt="Profil Resmi" style="border-radius: 50%;" width="400">
 
 
-Ben, 20 yaşında Bilgisayar Mühendisliği 3.sınıf öğrencisiyim ve Yapay Zeka Eklentili Oyun Geliştirme alanıyla ilgileniyorum. Kendimi geliştirmeyi, yeni insanlarla tanışmayı, fotoğraf çekmeyi ve spor yapmayı çok seviyorum. Benimle iletişime geçmek isterseniz hiç çekinmeyin😊
+Ben, 21 yaşında Bilgisayar Mühendisliği 3.sınıf öğrencisiyim ve Yapay Zeka Eklentili Oyun Geliştirme alanıyla ilgileniyorum. Kendimi geliştirmeyi, yeni insanlarla tanışmayı, fotoğraf çekmeyi ve spor yapmayı çok seviyorum. Benimle iletişime geçmek isterseniz hiç çekinmeyin😊
 
 I am a 20-year-old second-year Computer Engineering student, and I am interested in AI-Enhanced Game Development. I love improving myself, meeting new people, taking photos, and doing sports. Feel free to reach out to me anytime! 😊
 
 ## Hakkımda
-- 🌱 Şu anda Unity ve Yapay Zeka ile ilgileniyorum.
-- 💬 Bana Yapay Zeka Eklentini Oyun Geliştirme hakkında soru sorabilirsiniz.
-- 📝 İlgi Alanlarım: Fotoğraf çekmek, Spor yapmak, Kendimi geliştirmek, Yeni insanlarla tanışmak, Oyun oynamak.
+Hakkımda [TR]
+Merhaba, ben Hasan Efe Hayri. 
+Kütahya Sağlık Bilimleri Üniversitesi'nde 3. sınıf Bilgisayar Mühendisliği öğrencisiyim. 
+Bir Game Developer olarak oyun geliştirmek ve oyun oynamak en büyük hobilerim. 
+Kendimi geliştirmeyi ve yeni şeyler öğrenmeyi çok seviyorum. 
+Oyun sektörüne yeni ve farklı şeyler katmayı hedefliyorum.
+
+
 
 ## About Me
-- 🌱 Currently exploring Unity and Artificial Intelligence.
-- 💬 Feel free to ask me questions about AI-Enhanced Game Development.
-- 📝 📝 My Interests: Photography, Sports, Self-improvement, Meeting new people, Playing games.
+Hello, I’m Hasan Efe Hayri. 
+I am a third-year Computer Engineering student at Kütahya Health Sciences University. 
+As a Game Developer, developing and playing games are my greatest passions. 
+I love improving myself and learning new things constantly. 
+My goal is to contribute new and diverse perspectives to the gaming industry.
 
 ## GitHub İstatistikleri
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Efe-Hayri&show_icons=true" alt="GitHub İstatistikleri" /> </div>
